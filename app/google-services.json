@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1045581740892",
+    "project_id": "ksheerasagara-edc82",
+    "storage_bucket": "ksheerasagara-edc82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045581740892:android:32e34d8130145d352f9f99",
+        "android_client_info": {
+          "package_name": "com.example.ksheerasagara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnQWH8zaAZoVbCi2486m0yQQZkIdh-Cl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
